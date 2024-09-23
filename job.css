@@ -1,0 +1,14 @@
+body{ background-image: -webkit-image-set(url(Fintech-1.jpg));
+    background-size: cover;
+}
+h2{
+    color: aliceblue;
+}
+
+h1{
+    background-color: aliceblue;
+    color: black;
+}
+header{
+    color: aliceblue;
+}
